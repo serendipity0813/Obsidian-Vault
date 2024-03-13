@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "4e918296aa8f2baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd6901c7a316e1d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a39a922ed8e3efb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIP/깔끔한 이력서 작성 팁.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "665a9c7551932e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fca65a8cc1e0e65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22fa4257a58a6460",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "771af2ae81d14a0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad5290ca9f311b97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f16b61ae127d822",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e1cd149f4940bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6daacd440504ddd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TIP/깔끔한 이력서 작성 팁.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "774a330225471381",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b69bac07af60fd9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TIP/깔끔한 이력서 작성 팁.md"
+              }
+            }
+          },
+          {
+            "id": "910abd502e53dc30",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "502440a3d76b9cb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TIP/깔끔한 이력서 작성 팁.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "467259ce9bf96774",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "flowershow:Publish with Flowershow": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "a39a922ed8e3efb3",
+  "lastOpenFiles": [
+    "ObsidianVault/README.md",
+    "ObsidianVault",
+    "README.md",
+    "자료구조/ArrayList.md",
+    "자료구조/Dictionary.md",
+    "일정.md",
+    "Obsidian/README.md",
+    "Obsidian",
+    "자료구조/Array.md",
+    "자료구조/자료구조 정리.md",
+    "자료구조/자료구조 관련 메소드 정리.md",
+    "자료구조.md",
+    "ComputerScience/SOLID 원칙.md",
+    "계획정리.md",
+    "TIP/깔끔한 이력서 작성 팁.md",
+    "무제 파일.md",
+    "강의자료/스파르타 강의링크 모음.md",
+    "유니티/Pasted image 20240312173256.png",
+    "TIP",
+    "유니티/Pasted image 20240312171830.png",
+    "유니티/Pasted image 20240312171816.png",
+    "유니티/Pasted image 20240312171738.png",
+    "유니티/Pasted image 20240312171725.png",
+    "유니티/Pasted image 20240312171705.png",
+    "유니티/Pasted image 20240312171656.png",
+    "유니티/Pasted image 20240312171618.png",
+    "최종 프로젝트 발표 대본.md",
+    "기술면접용/내일배움캠프 합격이력서 101.pdf",
+    "기술면접용/Unity SQL문 50제.pdf",
+    "기술면접용/Unity 기술면접질문 100제.pdf",
+    "유니티/Tip/Unity 자격증 모음zip.pdf",
+    "유니티/Tip/Unity 개념용어정리.pdf",
+    "기술면접용/면접질문 41~60.md",
+    "기술면접용/면접질문 21~40.md",
+    "최종 프로젝트 발표 대본 (conflict 2024-03-08-13-40-58).md",
+    "유니티/DesignPattern/디자인 패턴 종류 및 간단정리.md",
+    "유니티/DesignPattern/더티플래그 패턴.md",
+    "유니티/DesignPattern/명령패턴.md",
+    "최종프로젝트/최종 프로젝트 고민 정리/인게임 UI 생성방식.md",
+    "최종프로젝트/최종 프로젝트 고민 정리/ThiefCave Game 고민정리.md",
+    "최종프로젝트/최종 프로젝트 고민 정리/여러가지 게임을 관리하는 방식 (초기화, 카메라 등).md",
+    "최종프로젝트/최종 프로젝트 고민 정리/게임 제작 방식, 최적화에 대한 고민.md",
+    "게임기획/집 만들기 게임.pdf",
+    "게임기획/디펜스게임 계획_231229_000924.pdf",
+    "강의자료/강의 노트정리/유니티숙련2d/9강 - ScriptableObject생성.jpg",
+    "사진저장용/Pasted image 20240219200920.png",
+    "무제 파일.canvas"
+  ]
+}

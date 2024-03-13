@@ -1,0 +1,54 @@
+#### 로비 화면에서 플레이어의 캐릭터가 나오게 하기
+- 뒷 배경과 바닥 오브젝트를 만든 후 플레이어 오브젝트가 서있도록 하기
+- 카메라 각도를 0도로 하여 캐릭터와 일정 거리 띄우기
+- ui를 배경화면 없이 이미지와 버튼으로 구성하여 카메라에 띄우기
+
+#### 게임선택 화면에서 게임(구슬?) 오브젝트가 보이도록 하기
+- 바닥 오브젝트와 게임으로 구성될 스피어 오브젝트를 생성하기
+- 카메라 각도를 90도로 하여 위에서 아래로 찍기
+- ui를 배경화면 없이 이미지, 버튼으로 구성하여 카메라에 띄우기
+
+[  
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaFdGwwr7KwxDaPtNxqv-gXjU8QfrBaMjOSR9N8KCWCsb-rBVXw7FfLnciv57lMNd0GJueApcDovGh9UIDiSs06v_ahI8Mph2Wn2AF_dyk8fb6zQgOIevV7ZajjVQG-WMg7uv08QXTlKrbJ8lwgt-U7_kP3TuaHbFNnYamdDrDyf35N6Tm_KxQmc7hx1rJ/s320/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-01-16%20203932.png)](https://www.blogger.com/blog/post/edit/3583706664799492072/6412642806326201408#)
+
+  
+
+1. Enum을 통해 사용될 ui 씬들을 나열함
+
+2. 현재 화면과 선택화면, 프리펩 오브젝트 등 필드에 설정 및 싱글톤화  
+
+  
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNTcIoNylOhsnJ_3z1mxxnM7u8rzD_NYTc0bDbEXhHPHoFmcyVaTtIIEN_Ky5iE3y7G-Fe8f2dIOtnc0G9J7ocR1H7ULHfqTfQQCQwcYUWNBj6TlfJBKO7vriRD3seBRGPMKI6k5UuBe_M5mO5brA2VIam9roEBlCgCrrUvpInuna-adgH0drJ8DzjBBSH/s320/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-01-16%20203957.png)](https://www.blogger.com/blog/post/edit/3583706664799492072/6412642806326201408#)
+
+  
+
+3. 씬에서 버튼 클릭시 enum에 나열한 씬을 매개변수로 넘겨주기
+
+4. 넘겨받은 씬 이름을 통해 이전 씬 프리펩을 파괴하고 새로운 씬 생성 및 저장
+
+5. 씬 변경하면서 생성 및 파괴가 필요한 오브젝트들도 같이 적용되도록
+
+  
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMRMWYXzV8wMZIuwcPbUR8olTRX272kQ4oFswpmOqbPoBVs127HFw6sq1yl-iS2KiaOa93djF9dsPofcec62_0QavcSkQzzPVFJr9-599QE1VXipIE3i3BitGPapKiaK-qYN_9rOKnrXtO4APuglEtApILdd-1n_wsDNLMju9y7XVOOmOZU0VomkZg5jDW/s320/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-01-16%20204001.png)](https://www.blogger.com/blog/post/edit/3583706664799492072/6412642806326201408#)
+
+  
+
+6. 옵션, 상점, 랭킹 등등 팝업식 UI는 비슷한 방식이지만 따로 관리
+
+-현재 팝업이 열려있는지, 지금 누른 팝업이 현재 열린 팝업과 같은지 판단 등
+
+  
+
+  
+
+7. 문제점
+
+- 핸드폰 화면의 크키마다 ui의 크기가 다르게 적용됨
+
+-> canvas가 오브젝트 하위에 설정되어 있어서 발생한 문제라 판단됨
+
+-> 프리펩 설정에서 수정이 아닌 프리팹을 꺼낸 후 캔버스를 수정하고 apply하는 방식으로 
+
+어느 정도 해결하였지만 기종별 차이점에 대한 구현은 조금 더 고민이 필요

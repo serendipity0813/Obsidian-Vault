@@ -1,0 +1,69 @@
+  
+StringBuilder는 C#에서 제공하는 문자열 클래스입니다. 문자열은 불변 객체이기 때문에 문자열을 수정하려면 새로운 문자열을 생성해야 합니다. StringBuilder는 이러한 불편을 해결하기 위해 도입된 클래스입니다. StringBuilder는 가변 객체이기 때문에 문자열을 수정할 때 새로운 문자열을 생성하지 않고 기존 문자열을 수정할 수 있습니다.
+
+**StringBuilder의 주요 기능은 다음과 같습니다.
+
+- 문자열을 추가, 삽입, 삭제, 교체할 수 있습니다.
+- 문자열을 검색, 정렬, 비교할 수 있습니다.
+- 문자열을 암호화, 복호화할 수 있습니다.
+
+**StringBuilder의 주요 쓰이는 함수들은 다음과 같습니다.
+
+- Append() 함수: 문자열을 추가합니다.
+- Insert() 함수: 문자열을 삽입합니다.
+- Delete() 함수: 문자열을 삭제합니다.
+- Replace() 함수: 문자열을 교체합니다.
+- IndexOf() 함수: 문자열의 위치를 검색합니다.
+- LastIndexOf() 함수: 문자열의 마지막 위치를 검색합니다.
+- Sort() 함수: 문자열을 정렬합니다.
+- CompareTo() 함수: 문자열을 비교합니다.
+- Encrypt() 함수: 문자열을 암호화합니다.
+- Decrypt() 함수: 문자열을 복호화합니다.
+
+다음은 StringBuilder를 사용하여 문자열을 추가하는 예입니다.
+
+```C#
+StringBuilder sb = new StringBuilder("Hello, ");
+sb.Append("world!");
+
+Console.WriteLine(sb); // Hello, world!
+```
+
+
+이 예제에서는 sb 변수를 사용하여 "Hello, " 문자열을 저장합니다. sb.Append() 함수를 사용하여 "world!" 문자열을 sb 변수에 추가합니다. Console.WriteLine() 함수를 사용하여 sb 변수의 값을 출력합니다.
+
+다음은 StringBuilder를 사용하여 문자열을 삽입하는 예입니다.
+
+```C#
+StringBuilder sb = new StringBuilder("Hello, ");
+sb.Insert(5, "world!");
+
+Console.WriteLine(sb); // Hello, world!
+```
+
+이 예제에서는 sb 변수를 사용하여 "Hello, " 문자열을 저장합니다. sb.Insert() 함수를 사용하여 "world!" 문자열을 sb 변수의 5번째 위치에 삽입합니다. Console.WriteLine() 함수를 사용하여 sb 변수의 값을 출력합니다.
+
+다음은 StringBuilder를 사용하여 문자열을 삭제하는 예입니다.
+
+```C#
+StringBuilder sb = new StringBuilder("Hello, world!");
+sb.Delete(5, 6);
+
+Console.WriteLine(sb); // Hello,
+```
+
+
+이 예제에서는 sb 변수를 사용하여 "Hello, world!" 문자열을 저장합니다. sb.Delete() 함수를 사용하여 "world!" 문자열의 첫 6글자를 삭제합니다. Console.WriteLine() 함수를 사용하여 sb 변수의 값을 출력합니다.
+
+다음은 StringBuilder를 사용하여 문자열을 교체하는 예입니다.
+
+```C#
+StringBuilder sb = new StringBuilder("Hello, world!");
+sb.Replace("world", "universe");
+
+Console.WriteLine(sb); // Hello, universe!
+```
+
+이 예제에서는 sb 변수를 사용하여 "Hello, world!" 문자열을 저장합니다. sb.Replace() 함수를 사용하여 "world" 문자열을 "universe" 문자열로 교체합니다. Console.WriteLine() 함수를 사용하여 sb 변수의 값을 출력합니다.
+
+위의 예는 StringBuilder의 주요 기능을 사용하는 간단한 예입니다. StringBuilder는 다양한 기능을 제공하기 때문에 필요에 따라 적절한 함수를 사용하여 문자열을 처리할 수 있습니다.

@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "1988740f8f7b07fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0cb57eb258f4149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13b406df4686ad3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "최종 프로젝트 발표 대본.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef92294baa178fce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f7af6c6c18bd4c13",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c9592f1cefebee50",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f99399996bf7d144",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "687f2d79ad4e50cc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1603087db0b3340a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f95d2688cee5079e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "최종 프로젝트 발표 대본.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dd950740a0d1132d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "최종 프로젝트 발표 대본.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2b8f7302a9638167",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "최종 프로젝트 발표 대본.md"
+          }
+        }
+      },
+      {
+        "id": "16b7b81f238e7e16",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "13b406df4686ad3b",
+  "lastOpenFiles": [
+    "일정/업무용/02월 09일 일정.md",
+    "일정/업무용/01월 17일 일정.md",
+    "일정/업무용/01월 29일 일정.md",
+    "일정/업무용/01월 24일 일정.md",
+    "강의자료/스탠다드반 강의/스탠다드반 3주차.md",
+    "강의자료/스탠다드반 강의/스탠다드반 2주차.md",
+    "강의자료/강의자료/유니티 입문/7강 - 각도에 따라 무기 회전시키기.jpg",
+    "강의자료/강의자료/TopDownShooting/Controller/TopDownAimRotation.md",
+    "일정/업무용/01월 15일 일정.md",
+    "일정/업무용/12월 31일 일정.md",
+    "강의자료/특강자료/실전 프로젝트 마음가짐 특강.md",
+    "강의자료/강의자료공부/유니티숙련2d/9강 - ScriptableObject생성.jpg",
+    "강의자료/강의자료공부/유니티 입문/8강 - 공격입력시 특정위치에 발사체생성.jpg",
+    "강의자료/강의자료공부/유니티 입문/5강 - 인풋시스템 입력시 호출함수 호출.jpg",
+    "강의자료/강의자료공부/유니티 입문/5강 - 이벤트 구독걸기, 실제 움직임 구현.jpg",
+    "일정/업무용/12월 29일 일정.md",
+    "알고리즘/탐색 알고리즘.md",
+    "유니티/DesignPattern/디자인 패턴 정리.md",
+    "핸드폰.md",
+    "일정/업무용/12월 23일 일정.md",
+    "일정/업무용/TaskFile.md",
+    "일정/일정기록/무제 파일.md",
+    "Math",
+    "TIL",
+    "게임기획",
+    "기타프로그램",
+    "일정/업무용/12월 22일 일정.md",
+    "일정/일정기록/결혼준비 일정.md",
+    "일정/업무용/23년 12월",
+    "일정/일정기록",
+    "일정/업무용",
+    "일정",
+    "유니티/UI/3D 오브젝트에 UI 달아주는 방법.md",
+    "유니티/Tip/충돌을 최소화하면서 협업하는 방법.md",
+    "유니티/Tip/오류 원인 찾는법 정리.md",
+    "유니티/Theory/제너릭, 오버로딩 vs 오버라이딩, 쿼터니온.md",
+    "유니티/Theory/카메라 뷰 정리.md",
+    "유니티/Theory/Layer, LayerMask, RayCast 기본내용.md",
+    "유니티/Skill/오브젝트풀.md",
+    "유니티/Week5.cs",
+    "유니티/Week4.cs"
+  ]
+}
