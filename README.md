@@ -26,7 +26,7 @@
   
 13. TIL 기록
     
- []
+  [https://github.com/serendipity0813/Obsidian-Vault/tree/main/TIL]
   
 15. 강의자료
     
