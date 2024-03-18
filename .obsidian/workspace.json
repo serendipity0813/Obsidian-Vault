@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "할일.md",
+                "file": "TIL/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "할일.md",
+                "file": "TIL/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "할일.md"
+                "file": "TIL/무제 파일.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "할일.md",
+                "file": "TIL/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,11 +166,14 @@
   },
   "active": "20146e9d49121351",
   "lastOpenFiles": [
-    "커리어/프로젝트/개인 프로젝트/서바이벌 게임.md",
+    "유니티/Tip/Unity 개념용어정리.pdf",
+    "TIL/무제 파일.md",
+    "할일.md",
+    "커리어/프로젝트/개인 프로젝트/게임 맵 만들기.md",
     "커리어/프로젝트/개인 프로젝트/3D URP 게임.md",
+    "커리어/프로젝트/개인 프로젝트/서바이벌 게임.md",
     "커리어/이력서/이력서 빽업.md",
     "커리어/이력서/깔끔한 이력서 작성 팁.md",
-    "할일.md",
     "무제 파일.md",
     "일정.md",
     "언어별 문법정리/C sharp 문법.md",
@@ -200,7 +203,6 @@
     "커리어/프로젝트/개인 프로젝트/탑다운 슈팅게임.md",
     "사진저장용/프로젝트 사진영상/TopDownShooting - SampleScene - Windows, Mac, Linux - Unity 2022.3.2f1 _DX11_ 2024-03-17 21-15-49.mp4",
     "사진저장용/프로젝트 사진영상/Survival - SampleScene - Windows, Mac, Linux - Unity 2022.3.2f1 _DX11_ 2024-03-17 22-04-55.mp4",
-    "커리어/프로젝트/개인 프로젝트/게임 맵 만들기.md",
     "사진저장용/프로젝트 사진영상/Cloning - MainScene - Windows, Mac, Linux - Unity 2022.3.2f1_ _DX11_ 2024-03-17 20-44-10.mp4",
     "커리어/프로젝트/개인 프로젝트/오리 퍼즐게임.md",
     "프로젝트/팀 프로젝트/무제 파일.md",
@@ -210,8 +212,6 @@
     "프로젝트/무제 파일.md",
     "이력서/이력서 저장본.md",
     "프로젝트/최종 프로젝트 고민 정리/인게임 UI 생성방식.md",
-    "프로젝트/최종 프로젝트 고민 정리/여러가지 게임을 관리하는 방식 (초기화, 카메라 등).md",
-    "프로젝트/최종 프로젝트 고민 정리/게임 제작 방식, 최적화에 대한 고민.md",
     "무제 파일.canvas"
   ]
 }
