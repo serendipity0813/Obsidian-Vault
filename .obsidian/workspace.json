@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/무제 파일.md",
+                "file": "할일.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#담당매니저님이",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/무제 파일.md",
+                "file": "할일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/무제 파일.md"
+                "file": "할일.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/무제 파일.md",
+                "file": "할일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,19 +165,42 @@
   },
   "active": "20146e9d49121351",
   "lastOpenFiles": [
-    "유니티/Tip/Unity 개념용어정리.pdf",
-    "TIL/무제 파일.md",
+    "공부자료/자격증 공부용/정보처리기사 문제집.pdf",
+    "공부자료/자격증 공부용",
+    "공부자료/대학 학습자료/정수론.pdf",
+    "공부자료/대학 학습자료/공개키.pdf",
+    "공부자료/대학 학습자료/고급응용프로그래밍__lecturenote_2020_2_advanced_programming_v20201102.pdf",
     "할일.md",
-    "커리어/프로젝트/개인 프로젝트/게임 맵 만들기.md",
-    "커리어/프로젝트/개인 프로젝트/3D URP 게임.md",
-    "커리어/프로젝트/개인 프로젝트/서바이벌 게임.md",
-    "커리어/이력서/이력서 빽업.md",
-    "커리어/이력서/깔끔한 이력서 작성 팁.md",
+    "공부자료/대학 학습자료/암호분석/암호분석 - Cryptanalysis_SubstCipher.pdf",
+    "강의자료/대학 학습자료/암호분석/코드/TMTO_0507_class.py",
+    "강의자료/대학 학습자료/암호분석/코드/TF20_lib.py",
+    "강의자료/대학 학습자료/암호분석/코드/TC20_Enc_lib.py",
+    "강의자료/대학 학습자료/암호분석/코드/SlideAttackFeistel_TF20.py",
+    "강의자료/대학 학습자료/암호분석/코드/SlideAttack_TC20.py",
+    "강의자료/대학 학습자료/공개키/무제 파일.md",
+    "README.md",
+    "TIL/2024/3월/24.03.18.md",
+    "TIL/2024/3월/24.03.18.md",
+    "TIL/2024/3월/24.03.16.md",
     "무제 파일.md",
-    "일정.md",
-    "언어별 문법정리/C sharp 문법.md",
-    "무제 파일 1.md",
-    "언어별 문법정리",
+    "커리어/자격증/내일배움캠프 유니티 수료증 및 리포트.md",
+    "커리어/이력서/깔끔한 이력서 작성 팁.md",
+    "커리어/이력서/이력서 빽업.md",
+    "TIL/2024/3월/24.03.15.md",
+    "TIL/2024/3월/24.03.14.md",
+    "TIL/2024/3월/24.03.13.md",
+    "TIL/2024/3월/24.03.12.md",
+    "TIL/2024/3월/24.03.11.md",
+    "TIL/2024/3월/24.03.08.md",
+    "TIL/2024/3월/24.03.07.md",
+    "TIL/2024/3월/24.03.06.md",
+    "TIL/2024/3월/24.03.05.md",
+    "TIL/2024/3월/24.03.04.md",
+    "TIL/2024/2월/24.02.29.md",
+    "TIL/2024/2월/24.02.28.md",
+    "TIL/2024/2월/24.02.27.md",
+    "TIL/2024/2월/24.02.26.md",
+    "TIL/2024/2월/24.02.23.md",
     "사진저장용/프로젝트 사진영상/Running.gif",
     "사진저장용/프로젝트 사진영상/SlimeCatch.gif",
     "사진저장용/Pasted image 20240312173256.png",
@@ -189,29 +211,6 @@
     "사진저장용/Pasted image 20240122205625.png",
     "사진저장용/Pasted image 20240122204635.png",
     "사진저장용/Pasted image 20240122204557.png",
-    "사진저장용/프로젝트 사진영상/3_3Lecture - SampleScene - Windows, Mac, Linux - Unity 2022.3.2f1 _DX11_ 2024-03-17 22-39-51.mp4",
-    "사진저장용/프로젝트 사진영상/3_2Project - SampleScene - Windows, Mac, Linux - Unity 2022.3.2f1 _DX11_ 2024-03-15 16-03-11.mp4",
-    "사진저장용/프로젝트 사진영상",
-    "사진저장용/프로젝트 사진영상/05Anti_Freeze - MainScene - Windows, Mac, Linux - Unity 2022.3.2f1 _DX11_ 2024-03-15 13-28-16.mp4",
-    "유니티/Data/데이터 저장 방식 정리.md",
-    "커리어/프로젝트/팀 프로젝트/Anti Freeze.md",
-    "커리어/프로젝트",
-    "커리어/프로젝트/팀 프로젝트/파워레인저 코딩포스.md",
-    "커리어/프로젝트/팀 프로젝트/개발자 키우기.md",
-    "커리어/이력서/포트폴리오 빽업.md",
-    "커리어/이력서",
-    "커리어/프로젝트/개인 프로젝트/탑다운 슈팅게임.md",
-    "사진저장용/프로젝트 사진영상/TopDownShooting - SampleScene - Windows, Mac, Linux - Unity 2022.3.2f1 _DX11_ 2024-03-17 21-15-49.mp4",
-    "사진저장용/프로젝트 사진영상/Survival - SampleScene - Windows, Mac, Linux - Unity 2022.3.2f1 _DX11_ 2024-03-17 22-04-55.mp4",
-    "사진저장용/프로젝트 사진영상/Cloning - MainScene - Windows, Mac, Linux - Unity 2022.3.2f1_ _DX11_ 2024-03-17 20-44-10.mp4",
-    "커리어/프로젝트/개인 프로젝트/오리 퍼즐게임.md",
-    "프로젝트/팀 프로젝트/무제 파일.md",
-    "커리어/프로젝트/개인 프로젝트/UI 만들기.md",
-    "커리어/프로젝트/팀 프로젝트/탕후루 타이쿤.md",
-    "커리어/프로젝트/팀 프로젝트/드림 아케이드.md",
-    "프로젝트/무제 파일.md",
-    "이력서/이력서 저장본.md",
-    "프로젝트/최종 프로젝트 고민 정리/인게임 UI 생성방식.md",
     "무제 파일.canvas"
   ]
 }
