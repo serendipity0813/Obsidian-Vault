@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "373cc663ae3a5a4f",
+            "id": "0a6fbf0d7f73cff2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TIL/TIL.md",
-                "mode": "source",
-                "source": false
+                "file": "사진저장용/Pasted image 20240325182717.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/TIL.md",
+                "file": "사진저장용/Pasted image 20240325182717.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/TIL.md"
+                "file": "사진저장용/Pasted image 20240325182717.png"
               }
             }
           },
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/TIL.md",
+                "file": "사진저장용/Pasted image 20240325182717.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,51 +163,51 @@
   },
   "active": "22fa4257a58a6460",
   "lastOpenFiles": [
-    "커리어/이력서/이력서 빽업.md",
+    "유니티/Skill/Input System.md",
+    "사진저장용/Pasted image 20240325183139.png",
+    "사진저장용/Pasted image 20240325183134.png",
+    "사진저장용/Pasted image 20240325183129.png",
+    "사진저장용/Pasted image 20240325183054.png",
+    "사진저장용/Pasted image 20240325182905.png",
+    "사진저장용/Pasted image 20240325182902.png",
+    "사진저장용/Pasted image 20240325182833.png",
+    "사진저장용/Pasted image 20240325182827.png",
+    "사진저장용/Pasted image 20240325182826.png",
+    "사진저장용/Pasted image 20240325182749.png",
+    "TIL/2024/3월/24.03.25.md",
+    "유니티/Skill",
     "할일.md",
-    "커리어/이력서/이력서.pdf",
-    "TIL/2024/3월/24.03.20.md",
-    "TIL/2024/3월/24.03.19.md",
-    "커리어/이력서/깔끔한 이력서 작성 팁.md",
-    "커리어/이력서/이력서 PDF 버전.md",
-    "커리어/이력서/이력서 노션 버전 빽업.md",
-    "커리어/자격증/면접수료.pdf",
-    "커리어/자격증/이력서수료.pdf",
-    "커리어/자격증/유준영 (1).pdf",
-    "커리어/자격증/유준영.pdf",
-    "커리어/자격증/내일배움캠프 유니티 수료증 및 리포트.md",
-    "README.md",
-    "사진저장용/Pasted image 20240319200413.png",
-    "사진저장용/Pasted image 20240319200401.png",
-    "커리어/이력서/이력서 PDF 버전 빽업.md",
     "무제 파일.md",
-    "커리어/프로젝트/개인 프로젝트/3D URP 게임.md",
-    "커리어/프로젝트/팀 프로젝트/탕후루 타이쿤.md",
-    "커리어/프로젝트/팀 프로젝트/Anti Freeze.md",
-    "커리어/프로젝트/팀 프로젝트/파워레인저 코딩포스.md",
-    "커리어/프로젝트/팀 프로젝트/개발자 키우기.md",
-    "커리어/프로젝트/개인 프로젝트/게임 맵 만들기.md",
-    "커리어/프로젝트/개인 프로젝트/서바이벌 게임.md",
-    "커리어/프로젝트/개인 프로젝트/UI 만들기.md",
-    "커리어/프로젝트/개인 프로젝트/탑다운 슈팅게임.md",
-    "커리어/프로젝트/개인 프로젝트/오리 퍼즐게임.md",
-    "커리어/프로젝트/팀 프로젝트/드림 아케이드.md",
-    "유니티/Tip/오류 원인 찾는법 정리.md",
+    "이력서 피드백.md",
+    "TIL/2024/3월/24.03.21.md",
+    "TIL/2024/3월/24.03.22.md",
+    "유니티/Method/Delegate, Action, Event, Func.md",
+    "유니티/Method/코루틴.md",
+    "유니티/Method/레이어.md",
+    "유니티/Method/이벤트.md",
+    "유니티/Method/유니티 충돌관련 함수 정리.md",
+    "유니티/Method/유니티 내장함수 정리.md",
+    "유니티/Method/액션.md",
+    "유니티/Method/델리게이트.md",
+    "유니티/Method/레이어마스크.md",
+    "기술면접용/면접질문 1~20.md",
     "유니티/Tip/유니티 프로그램 꿀팁 모음집.md",
-    "유니티/유준영 (1) 1.pdf",
-    "유니티/유준영 1.pdf",
-    "유니티/유준영 (1) 2.pdf",
-    "유니티/유준영 (1) 1 1.pdf",
-    "유니티/Bug발생시 수정했던 방안들 정리집/코드 내부의 변수값 관련 오류.md",
-    "공부자료/자격증 공부용/정보처리기사 문제집.pdf",
-    "사진저장용/프로젝트 사진영상/Running.gif",
-    "사진저장용/프로젝트 사진영상/SlimeCatch.gif",
-    "사진저장용/Pasted image 20240312173256.png",
-    "사진저장용/Pasted image 20240312171738.png",
-    "사진저장용/Pasted image 20240122212933.png",
-    "사진저장용/Pasted image 20240122212849.png",
-    "사진저장용/Pasted image 20240122212103.png",
-    "사진저장용/Pasted image 20240122205625.png",
+    "README.md",
+    "기술면접용/면접질문 21~40.md",
+    "유니티/DesignPattern/메멘토 패턴.md",
+    "유니티/DesignPattern/명령패턴.md",
+    "유니티/DesignPattern/빌더패턴.md",
+    "유니티/DesignPattern/상태패턴.md",
+    "유니티/DesignPattern/오브젝트풀.md",
+    "유니티/사람인 적성검사 - 사람인.pdf",
+    "유니티/사람인 인성검사 - 사람인.pdf",
+    "커리어/인적성 검사/사람인 적성검사 - 사람인.pdf",
+    "커리어/인적성 검사/사람인 인성검사 - 사람인.pdf",
+    "커리어/인적성 검사",
+    "언어별 문법정리/Csharp/5주차/2)_정렬_알고리즘.pdf",
+    "언어별 문법정리/Csharp/5주차/1)_알고리즘_기초.pdf",
+    "언어별 문법정리/Csharp/3주차/1)_클래스와_객체.pdf",
+    "언어별 문법정리/Csharp/5주차/5)_문제_해결_전략과_실전_연습.pdf",
     "무제 파일.canvas"
   ]
 }

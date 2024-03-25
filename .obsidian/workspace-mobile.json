@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기술면접용/면접질문 21~40.md",
+                "file": "ComputerScience/SOLID 원칙.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "기술면접용/면접질문 21~40.md",
+            "file": "ComputerScience/SOLID 원칙.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "기술면접용/면접질문 21~40.md",
+            "file": "ComputerScience/SOLID 원칙.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "기술면접용/면접질문 21~40.md"
+            "file": "ComputerScience/SOLID 원칙.md"
           }
         }
       },
@@ -151,6 +151,8 @@
   },
   "active": "13b406df4686ad3b",
   "lastOpenFiles": [
+    "이력서 피드백.md",
+    "기술면접용/면접질문 41~60.md",
     "할일.md",
     "기술면접용/면접질문 21~40.md",
     "프로젝트/팀 프로젝트/탕후루 타이쿤.md",
@@ -188,8 +190,6 @@
     "일정",
     "유니티/UI/3D 오브젝트에 UI 달아주는 방법.md",
     "유니티/Tip/충돌을 최소화하면서 협업하는 방법.md",
-    "유니티/Tip/오류 원인 찾는법 정리.md",
-    "유니티/Theory/제너릭, 오버로딩 vs 오버라이딩, 쿼터니온.md",
     "유니티/Week5.cs",
     "유니티/Week4.cs"
   ]
