@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf"
+                "file": "유니티/Graphics/UnityGraphics2_1.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf",
+                "file": "유니티/Graphics/UnityGraphics2_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf"
+                "file": "유니티/Graphics/UnityGraphics2_1.pdf"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf",
+                "file": "유니티/Graphics/UnityGraphics2_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +163,11 @@
   },
   "active": "0a6fbf0d7f73cff2",
   "lastOpenFiles": [
-    "유니티/Graphics/UnityGraphicsProgramming-vol1_Korean.pdf",
+    "유니티/Graphics/UnityGraphics2_2.pdf",
+    "유니티/Graphics/UnityGraphics2_1.pdf",
+    "유니티/Graphics/UnityGraphics1.pdf",
     "유니티/Graphics/UnityGraphicsProgramming-vol2_Korean.pdf",
-    "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf",
+    "유니티/Graphics/UnityGraphics3.pdf",
     "TIL/2024/3월/24.03.26.md",
     "TIL/2024/3월/24.03.25.md",
     "할일.md",
@@ -207,7 +209,6 @@
     "유니티/Skill",
     "유니티/사람인 적성검사 - 사람인.pdf",
     "유니티/사람인 인성검사 - 사람인.pdf",
-    "커리어/인적성 검사/사람인 적성검사 - 사람인.pdf",
     "무제 파일.canvas"
   ]
 }
