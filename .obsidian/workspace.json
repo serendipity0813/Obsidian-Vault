@@ -11,11 +11,9 @@
             "id": "0a6fbf0d7f73cff2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "TIL/2024/3월/24.03.26.md",
-                "mode": "source",
-                "source": false
+                "file": "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2024/3월/24.03.26.md",
+                "file": "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2024/3월/24.03.26.md"
+                "file": "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf"
               }
             }
           },
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2024/3월/24.03.26.md",
+                "file": "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,13 +163,13 @@
   },
   "active": "0a6fbf0d7f73cff2",
   "lastOpenFiles": [
-    "TIL/2024/3월/24.03.25.md",
-    "TIL/2024/3월/24.03.26.md",
-    "할일.md",
-    "TIL/TIL.md",
     "유니티/Graphics/UnityGraphicsProgramming-vol1_Korean.pdf",
     "유니티/Graphics/UnityGraphicsProgramming-vol2_Korean.pdf",
     "유니티/Graphics/UnityGraphicsProgramming-vol3_Korean.pdf",
+    "TIL/2024/3월/24.03.26.md",
+    "TIL/2024/3월/24.03.25.md",
+    "할일.md",
+    "TIL/TIL.md",
     "유니티/Graphics",
     "게임개발",
     "무제 파일.md",
@@ -195,7 +193,6 @@
     "TIL/2023/10월/23.10.28.md",
     "TIL/2023/10월/23.10.27.md",
     "TIL/2023/10월/23.10.26.md",
-    "TIL/2023/10월/23.10.23.md",
     "사진저장용/Pasted image 20240326100830.png",
     "사진저장용/Pasted image 20240326100824.png",
     "사진저장용/Pasted image 20240326100822.png",
