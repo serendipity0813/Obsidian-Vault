@@ -45,7 +45,7 @@ public class Note
 }
 ```
 
-Delegate - 단일 함수 핫키
+Delegate - 함수 핫키
 Event  - 함수 모음집
 Action - 반환값 없는 함수 / 행동
 Func - 반환값 있는 함수 / 계산

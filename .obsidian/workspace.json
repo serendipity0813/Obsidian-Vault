@@ -11,9 +11,11 @@
             "id": "0a6fbf0d7f73cff2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "유니티/Graphics/UnityGraphics2_1.pdf"
+                "file": "영상 대본1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유니티/Graphics/UnityGraphics2_1.pdf",
+                "file": "영상 대본1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유니티/Graphics/UnityGraphics2_1.pdf"
+                "file": "영상 대본1.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유니티/Graphics/UnityGraphics2_1.pdf",
+                "file": "영상 대본1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,38 +165,39 @@
   },
   "active": "0a6fbf0d7f73cff2",
   "lastOpenFiles": [
-    "유니티/Graphics/UnityGraphics2_2.pdf",
+    "무제 파일.md",
+    "영상 대본1.md",
+    "이력서 피드백.md",
+    "TIL/2024/3월/24.03.27.md",
+    "사진저장용/Pasted image 20240327210035.png",
+    "TIL/2024/3월/24.03.26.md",
+    "TIL/TIL.md",
+    "할일.md",
+    "README.md",
+    "유니티/Method/이벤트.md",
+    "유니티/Method/델리게이트.md",
+    "유니티/Method/Delegate, Action, Event, Func.md",
+    "유니티/Method/코루틴.md",
+    "유니티/Method/유니티 충돌관련 함수 정리.md",
+    "유니티/Method/유니티 내장함수 정리.md",
+    "공부자료/내일배움캠프/스탠다드반 강의/스탠다드반 1주차.md",
+    "공부자료/내일배움캠프/스탠다드반 강의/스탠다드반 5주차.md",
+    "공부자료/내일배움캠프/스탠다드반 강의/스탠다드반 4주차.md",
+    "공부자료/내일배움캠프/스탠다드반 강의/스탠다드반 3주차.md",
+    "공부자료/내일배움캠프/스탠다드반 강의/스탠다드반 2주차.md",
     "유니티/Graphics/UnityGraphics2_1.pdf",
+    "유니티/Graphics/UnityGraphics2_2.pdf",
     "유니티/Graphics/UnityGraphics1.pdf",
     "유니티/Graphics/UnityGraphicsProgramming-vol2_Korean.pdf",
     "유니티/Graphics/UnityGraphics3.pdf",
-    "TIL/2024/3월/24.03.26.md",
     "TIL/2024/3월/24.03.25.md",
-    "할일.md",
-    "TIL/TIL.md",
     "유니티/Graphics",
     "게임개발",
-    "무제 파일.md",
-    "README.md",
     "공부자료/내일배움캠프/스파르타 강의링크 모음.md",
-    "공부자료/내일배움캠프/스탠다드반 강의/스탠다드반 2주차.md",
-    "공부자료/내일배움캠프/스탠다드반 강의/스탠다드반 1주차.md",
     "TIL.md",
-    "이력서 피드백.md",
     "유니티/Skill/9 Slice.md",
     "유니티/Skill/AI 이론.md",
     "유니티/Skill/Build.md",
-    "유니티/Skill/Input System.md",
-    "유니티/Skill/TileMap.md",
-    "유니티/Skill/UI 스크롤뷰 구현.md",
-    "커리어/프로젝트/개인 프로젝트/게임 맵 만들기.md",
-    "커리어/프로젝트/개인 프로젝트/3D URP 게임.md",
-    "ComputerScience/SOLID 원칙.md",
-    "TIL/2023/10월/23.10.31.md",
-    "TIL/2023/10월/23.10.30.md",
-    "TIL/2023/10월/23.10.28.md",
-    "TIL/2023/10월/23.10.27.md",
-    "TIL/2023/10월/23.10.26.md",
     "사진저장용/Pasted image 20240326100830.png",
     "사진저장용/Pasted image 20240326100824.png",
     "사진저장용/Pasted image 20240326100822.png",
@@ -204,11 +207,9 @@
     "사진저장용/Pasted image 20240326100759.png",
     "사진저장용/Pasted image 20240326100755.png",
     "사진저장용/Pasted image 20240326100749.png",
-    "사진저장용/Pasted image 20240326100742.png",
     "유니티/Skill/무제 폴더",
     "유니티/Skill",
     "유니티/사람인 적성검사 - 사람인.pdf",
-    "유니티/사람인 인성검사 - 사람인.pdf",
     "무제 파일.canvas"
   ]
 }
